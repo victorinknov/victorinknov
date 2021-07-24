@@ -19,14 +19,6 @@ Here are some ideas to get you started:
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=victorinknov&hide=html&layout=compact&theme=dracula)](https://github.com/victorinknov/)
 
-<style>
-  :root {
-  --dc-yellow: #f1fa8c;
-  --dc-green: #50fa7b;
-  --dc-red: #ff5555;
-  --dc-comment: #6272a4;
-}
-</style>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -36,11 +28,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  🦄 Languages: <strong style="color: var(--dc-yellow)">JavaScript | Python | SQL </strong>
+  🦄 Languages: <strong>JavaScript | Python | SQL </strong>
 </p>
 
 <p align="left">
-  💼 Enviroment: <strong style="color: var(--dc-green)">VSCode | Bootstrap | PhpMyAdmin </strong>
+  💼 Enviroment: <strong>VSCode | Bootstrap | PhpMyAdmin </strong>
 </p>
 
 <p align="left">
@@ -48,10 +40,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=victorhonly@gmail.com" /></a>
-
-  <a href="https://www.linkedin.com/in/victor-inknov/" alt="Linkedin">
+   <a href="https://www.linkedin.com/in/victor-inknov/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-inknov/" /></a>
 
   <a href="https://wa.me/5511960687340" alt="WhatsApp">
