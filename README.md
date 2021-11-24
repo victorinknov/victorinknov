@@ -25,8 +25,11 @@ Here are some ideas to get you started:
 
 <p align="left"> 
    <strong>Who am I?</strong>.<br>
-  My name is Victor Inknov and i'm in constant learning. If u like something on my github page, please, lemme know 👽.
+  My name is Victor Inknov and I'm in constant learning. Self learned from scratch and teaching those ones who need 👽.
 </p>
+
+- 🔭 I'm currently working on myself, trying to learn increasingly my knowledge everyday...
+- ☕ Coffee lover...
 
 <p align="left">
   🦄 Languages: <strong>JavaScript | Python | SQL </strong>
@@ -48,8 +51,21 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511960687340"/></a>
 
   <a href="https://fb.com/victor.inknov" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://fb.com/victor.inknov"/></a>
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://fb.com/victorinknov"/></a>
 
   <a href="https://instagram.com/victorinknov/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/victorinknov/"/></a>
-</p>  
+</p>
+
+<p align="center">
+   <a href="https://confiadesign.ml">
+      <img src="https://confiadesign.ml/img/essentials/logo-confiad.svg"  alt="Confia Design">
+   </a>
+   <a href="https://cinecstasy.ml">
+      <img src="https://cinecstasy.ml/images/essentials/logo.svg"  alt="Confia Design">
+   </a>
+   <a href="https://victorinknov.ml>
+      <h3> Victor Inknov </h3>
+   </a>
+</p>
+   
