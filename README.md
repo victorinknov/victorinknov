@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=victorinknov&hide=html&layout=compact&theme=dracula)](https://github.com/victorinknov/)
 
 
-<img src="https://github.com/victorinknov/victorinknov/blob/main/me.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/victorinknov/victorinknov/blob/main/me.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
    <strong>Who am I?</strong>.<br>
