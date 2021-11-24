@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![card](https://github-readme-stats.vercel.app/api?username=victorinknov&theme=dracula)](https://github.com/victorinknov/)
-
 <img src="https://github.com/victorinknov/victorinknov/blob/main/me.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+
+[![card](https://github-readme-stats.vercel.app/api?username=victorinknov&theme=dracula)](https://github.com/victorinknov/)
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=victorinknov&hide=html&layout=compact&theme=dracula)](https://github.com/victorinknov/)
 
