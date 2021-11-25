@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 
 <p align="center">
    <a href="https://confiadesign.ml">
-      <img align="left" src="https://github.com/victorinknov/victorinknov/blob/main/logo-confiad.svg" height="50px" alt="Confia Design">
+      <img align="left" target="_blank" src="https://github.com/victorinknov/victorinknov/blob/main/logo-confiad.svg" height="50px" alt="Confia Design">
    </a>
    <a href="https://cinecstasy.ml">
-      <img align="right" src="https://github.com/victorinknov/victorinknov/blob/main/cinecstasy.svg"  height="50px" alt="Cinecstasy">
+      <img align="right" target="_blank" src="https://github.com/victorinknov/victorinknov/blob/main/cinecstasy.svg"  height="50px" alt="Cinecstasy">
    </a>
    <a href="https://victorinknov.ml>
       <h3> Victor Inknov </h3>
