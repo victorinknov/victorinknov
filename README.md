@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/victorinknov/victorinknov/blob/main/stickers/coding.png" min-width="200px" max-width="200px" width="200px" align="right" alt="me coding">
-
 [![card](https://github-readme-stats.vercel.app/api?username=victorinknov&theme=dracula)](https://github.com/victorinknov/)
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=victorinknov&hide=html&layout=compact&theme=dracula)](https://github.com/victorinknov/)
