@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## :white_check_mark: Minhas estatísticas ##
 
-[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusgiacomelli&theme=solarized_dark)](#)
+[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorinknov&theme=dracula)](#)
 
 <p align="center">
    <a href="https://confiadesign.ml">
