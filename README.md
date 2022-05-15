@@ -29,19 +29,9 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on myself, trying to learn increasingly my knowledge everyday...
 - ☕ Coffee lover...
 
-<p align="left">
-  🦄 Languages: <strong>JavaScript | Python | SQL </strong>
-</p>
+## :white_check_mark: Minhas estatísticas ##
 
-<p align="left">
-  💼 Enviroment: <strong>VSCode | Bootstrap | PhpMyAdmin </strong>
-</p>
-
-<p align="left">
-  💌 Do you wanna talk to me or something like that? ⤵️
-</p>
-
-
+[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusgiacomelli&theme=solarized_dark)](#)
 
 <p align="center">
    <a href="https://confiadesign.ml">
