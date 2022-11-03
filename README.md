@@ -6,23 +6,23 @@
 
 ## Technologies I am most knowledgeable about
 
-[![logo javascript](https://img.shields.io/badge/JavaScript-F5F5F5?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![logo html5](https://img.shields.io/badge/HTML_5-F5F5F5?style=for-the-badge&logo=html5&logoColor=black)](#)
-[![logo css3](https://img.shields.io/badge/CSS_3-F5F5F5?&style=for-the-badge&logo=css3&logoColor=black)](#)
-[![logo react](https://img.shields.io/badge/React-F5F5F5?style=for-the-badge&logo=react&logoColor=black)](#)
-[![logo mysql](https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql&logoColor=black)](#)
-[![logo json](https://img.shields.io/badge/json-F5F5F5?style=for-the-badge&logo=json&logoColor=black)](#)
-[![logo github](https://img.shields.io/badge/GitHub-F5F5F5?style=for-the-badge&logo=github&logoColor=black)](#)
+[![logo javascript](https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=f7f7f1)](#)
+[![logo html5](https://img.shields.io/badge/HTML_5-282a36?style=for-the-badge&logo=html5&logoColor=f7f7f1)](#)
+[![logo css3](https://img.shields.io/badge/CSS_3-282a36?&style=for-the-badge&logo=css3&logoColor=f7f7f1)](#)
+[![logo react](https://img.shields.io/badge/React-282a36?style=for-the-badge&logo=react&logoColor=f7f7f1)](#)
+[![logo mysql](https://img.shields.io/badge/MySQL-282a36?style=for-the-badge&logo=mysql&logoColor=f7f7f1)](#)
+[![logo json](https://img.shields.io/badge/json-282a36?style=for-the-badge&logo=json&logoColor=f7f7f1)](#)
+[![logo github](https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github&logoColor=f7f7f1)](#)
 
 ## Technologies I use and am studying
 
-[![logo AWS](https://img.shields.io/badge/Aws-F5F5F5?style=for-the-badge&logo=amazon&logoColor=black)](#)
-[![logo spring](https://img.shields.io/badge/Spring-F5F5F5?style=for-the-badge&logo=spring&logoColor=black)](#)
-[![logo typescript](https://img.shields.io/badge/TypeScript-F5F5F5?style=for-the-badge&logo=typescript&logoColor=black)](#)
-[![logo Vercel](https://img.shields.io/badge/Vercel-F5F5F5?style=for-the-badge&logo=vercel&logoColor=black)](#)
-[![logo firebase](https://img.shields.io/badge/Firebase-F5F5F5?style=for-the-badge&logo=firebase&logoColor=black)](#)
-[![logo sqlite](https://img.shields.io/badge/SQLite-F5F5F5?style=for-the-badge&logo=sqlite&logoColor=black)](#)
-[![logo heroku](https://img.shields.io/badge/Heroku-F5F5F5?style=for-the-badge&logo=heroku&logoColor=black)](#)
+[![logo AWS](https://img.shields.io/badge/Aws-282a36?style=for-the-badge&logo=amazon&logoColor=f7f7f1)](#)
+[![logo spring](https://img.shields.io/badge/Spring-282a36?style=for-the-badge&logo=spring&logoColor=f7f7f1)](#)
+[![logo typescript](https://img.shields.io/badge/TypeScript-282a36?style=for-the-badge&logo=typescript&logoColor=f7f7f1)](#)
+[![logo Vercel](https://img.shields.io/badge/Vercel-282a36?style=for-the-badge&logo=vercel&logoColor=f7f7f1)](#)
+[![logo firebase](https://img.shields.io/badge/Firebase-282a36?style=for-the-badge&logo=firebase&logoColor=f7f7f1)](#)
+[![logo sqlite](https://img.shields.io/badge/SQLite-282a36?style=for-the-badge&logo=sqlite&logoColor=f7f7f1)](#)
+[![logo heroku](https://img.shields.io/badge/Heroku-282a36?style=for-the-badge&logo=heroku&logoColor=f7f7f1)](#)
 
 ## My statistics
 
