@@ -4,29 +4,26 @@
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=victorinknov&hide=html&layout=compact&theme=dracula)](https://github.com/victorinknov/)
 
-## Tecnologias nas quais tenho maior conhecimento :star: ##
+## Technologies I am most knowledgeable about
 
-[![logo javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![logo html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![logo css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)
-[![logo typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![logo react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-[![logo mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![logo google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
-[![logo json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)
-[![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![logo javascript](https://img.shields.io/badge/JavaScript-F5F5F5?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![logo html5](https://img.shields.io/badge/HTML_5-F5F5F5?style=for-the-badge&logo=html5&logoColor=black)](#)
+[![logo css3](https://img.shields.io/badge/CSS_3-F5F5F5?&style=for-the-badge&logo=css3&logoColor=black)](#)
+[![logo react](https://img.shields.io/badge/React-F5F5F5?style=for-the-badge&logo=react&logoColor=black)](#)
+[![logo mysql](https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql&logoColor=black)](#)
+[![logo json](https://img.shields.io/badge/json-F5F5F5?style=for-the-badge&logo=json&logoColor=black)](#)
+[![logo github](https://img.shields.io/badge/GitHub-F5F5F5?style=for-the-badge&logo=github&logoColor=black)](#)
 
-## Tecnologias que uso e estou me desenvolvendo :books: ##
+## Technologies I use and am studying
 
-[![logo google playstore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](#)
-[![logo spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
-[![logo java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
-[![logo firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)](#)
-[![logo sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#)
-[![logo dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#)
-[![logo flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
-[![logo heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
+[![logo AWS](https://img.shields.io/badge/Aws-F5F5F5?style=for-the-badge&logo=amazon&logoColor=black)](#)
+[![logo spring](https://img.shields.io/badge/Spring-F5F5F5?style=for-the-badge&logo=spring&logoColor=black)](#)
+[![logo typescript](https://img.shields.io/badge/TypeScript-F5F5F5?style=for-the-badge&logo=typescript&logoColor=black)](#)
+[![logo Vercel](https://img.shields.io/badge/Vercel-F5F5F5?style=for-the-badge&logo=vercel&logoColor=black)](#)
+[![logo firebase](https://img.shields.io/badge/Firebase-F5F5F5?style=for-the-badge&logo=firebase&logoColor=black)](#)
+[![logo sqlite](https://img.shields.io/badge/SQLite-F5F5F5?style=for-the-badge&logo=sqlite&logoColor=black)](#)
+[![logo heroku](https://img.shields.io/badge/Heroku-F5F5F5?style=for-the-badge&logo=heroku&logoColor=black)](#)
 
-## :white_check_mark: Minhas estatísticas ##
+## My statistics
 
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorinknov&theme=dracula)](#)
