@@ -2,7 +2,7 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=victorinknov&theme=dracula)](https://github.com/victorinknov/)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=victorinknov&hide=html&layout=compact&theme=dracula)](https://github.com/victorinknov/)
+[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=victorinknov&hide=html&theme=dracula)](https://github.com/victorinknov/)
 
 ## Technologies I am most knowledgeable about
 
